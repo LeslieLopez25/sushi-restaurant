@@ -728,7 +728,9 @@ img {
 }
 
 /* SHOW SCROLL UP*/
-
+.show-scroll {
+    bottom: 3rem;
+}
 
 /*=============== BREAKPOINTS ===============*/
 /* FOR SMALL DEVICES */
