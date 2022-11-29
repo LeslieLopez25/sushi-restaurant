@@ -834,7 +834,7 @@ body.dark-theme {
     }
 
     .newsletter__input {
-        width: initial;
+        width: 12rem;
         padding: 1rem;
         border-radius: 4rem;
     }
