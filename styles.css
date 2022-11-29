@@ -515,6 +515,10 @@ body.dark-theme {
     text-align: center;
 }
 
+.recently__description {
+    margin-bottom: 2rem;
+}
+
 .recently__data-img {
     width: 25px;
     position: absolute;
